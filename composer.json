@@ -1,13 +1,13 @@
 {
-    "name": "markhilton/monolog-mysql",
-    "description": "Laravel 5 MySQL driver for Monolog",
-    "keywords": ["laravel", "laravel5", "log", "monolog", "mysql"],
-    "homepage": "https://github.com/markhilton/monolog-mysql",
+    "name": "/monolog-mysql",
+    "description": "Laravel 5.5+ MySQL driver for Monolog",
+    "keywords": ["laravel", "laravel5.5", "log", "monolog", "mysql"],
+    "homepage": "https://github.com/Gilg4mesh/monolog-mysql",
     "type": "library",
     "license": "MIT",
     "authors": [{
-        "name": "Mark Hilton",
-        "email": "nerd305@gmail.com"
+        "name": "Tom Cheng",
+        "email": "freedomtomdestiny@gmail.com"
     }],
     "require": {
         "php": ">=5.5.9"
